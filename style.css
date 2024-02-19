@@ -1,0 +1,236 @@
+
+/** accueil **/
+body {
+    margin: 0 auto;
+    padding: 15px;
+}
+div.ul {
+    color: white;
+    justify-content: space-between;
+    width: 100%;
+}
+
+header.header img {
+    width: 160px;
+    align-items: center;
+    background-color: blue;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+
+
+
+
+
+section.top-page {
+    background: url("../images/3-tablet.jpg"); 
+    background-size: cover;
+      height: 600px;
+      padding: 0px;
+      font-size: larger 100px;
+      font-weight: 3px;
+      justify-content: space-between;
+      width: 100%;
+      text-decoration: none;
+      
+      
+      
+      
+}
+
+section.presentation {
+    margin-top: 380px;
+    text-align: center;
+    font-size: 25px;
+
+    
+}
+
+
+section.mot-directeur {
+    background-color: #00008b;
+    
+
+    position: relative;
+    width: 1200px;
+    font-size: 20px;
+    width:  100%;
+    
+    border-radius: 0%;
+    justify-content: space-between;
+    font-weight: 0px;
+    font-size: 0 px;    
+    padding: 0px;
+    display: flex;
+    height: 10pxpx;
+    color: white ;
+    border: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+    
+    
+    
+
+    
+
+}
+
+section.Accueil {
+    position: relative;
+    padding-top: 500 px;
+    padding: 0px;
+    justify-content: space-between;
+    font-size: 20px;
+    font-size: 0px;
+    
+    
+    
+    
+    
+    
+    
+    
+}
+.lading-page {
+    padding: 20px 50px;
+    justify-content: space-between;
+
+}
+section .big-title {
+    color: white;
+    font-size: 80px;
+    height: 60px;
+    text-decoration: none;
+   
+    font-family: "a";
+}
+
+header.header {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    padding: 15px;
+    height: 50px;
+}
+
+
+nav.nav {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 100px;
+    margin-left: 300px;
+    height: 100px;
+    justify-content: space-between;
+    text-decoration: none;
+    width: 100%;
+}
+
+nav.nav li {
+    color: blue;
+    text-align: center;
+    padding: 30px;
+    cursor: pointer;
+    justify-content: space-between;
+    display: flex;
+    text-decoration: none;
+
+}
+
+
+html {
+
+    scroll-behavior: smooth;
+
+}
+
+
+
+section.bas-page {
+    color: white;
+    padding: 45px;
+    text-decoration: none;
+    height: 80px;
+    list-style: none;
+    display: flex;
+    font-size: 20px;
+    list-style-type: disc;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/** realisation **/
+
+section.realisation {
+    font-size: 20px;
+    width: 100%;
+    
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+/** contact **/
+
+
+section.contact {
+
+    margin-top: 70px;
+    position: absolute;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    height: auto;
+}
+
+
+section.footer {
+    margin-top: 500px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    height: 40px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
