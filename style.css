@@ -13,9 +13,10 @@ div.ul {
 header.header img {
     width: 160px;
     align-items: center;
-    background-color: blue;
+    background-color: white;
     justify-content: space-between;
     text-decoration: none;
+    position: absolute;
 }
 
 
@@ -24,7 +25,7 @@ header.header img {
 
 
 section.top-page {
-    background: url("../images/3-tablet.jpg"); 
+    background: url("../3-tablet.jpg"); 
     background-size: cover;
       height: 600px;
       padding: 0px;
